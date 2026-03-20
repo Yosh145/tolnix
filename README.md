@@ -180,29 +180,6 @@ CabinDimTakeoff.ogg                         ← Universal fallback, no tags
 Invalid tags (non-alphanumeric, unknown format) are silently ignored.
 
 ---
-
-## GUI Overview
-
-```
-┌──────────────────────────────────────────────────────┐
-│              Tolnix Cabin Announcements               │
-├── ◀ ──────────── { Category } ──────────── ▶ ─ [ICAO ▼] ──┤
-│  You are in {Category} Mode                           │
-│  {TimeOfDay} | {HH:MM}            Loaded Airline: {ICAO} │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│   ┌──────────┐    ┌──────────┐    ┌──────────┐      │
-│   │ Button 1 │    │ Button 2 │    │ Button 3 │      │
-│   └──────────┘    └──────────┘    └──────────┘      │
-│                                                      │
-│        ┌──────────┐    ┌──────────┐                  │
-│        │ Button 4 │    │ Button 5 │                  │
-│        └──────────┘    └──────────┘                  │
-│                                                      │
-│                                       [New Flight]   │
-└──────────────────────────────────────────────────────┘
-```
-
 ### Controls
 
 | Control | Action |
